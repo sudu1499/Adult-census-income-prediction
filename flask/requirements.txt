@@ -1,0 +1,6 @@
+numpy>=1.19.2
+pandas>=1.2.4
+flask>=1.1.2
+logging>=0.5.1.2
+sklearn>=0.24.1
+streamlit
